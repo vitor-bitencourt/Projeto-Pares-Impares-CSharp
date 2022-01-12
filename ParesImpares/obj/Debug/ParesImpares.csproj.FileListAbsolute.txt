@@ -1,0 +1,30 @@
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe.config
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\bin\Debug\ParesImpares.pdb
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Form1.resources
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Properties.Resources.resources
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.exe
+C:\Users\vitor\Documents\Revisão_Aula\ParesImpares\ParesImpares\obj\Debug\ParesImpares.pdb
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe.config
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\bin\Debug\ParesImpares.pdb
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Form1.resources
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Properties.Resources.resources
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.exe
+C:\Users\vitor\Documents\C#\ParesImpares\ParesImpares\obj\Debug\ParesImpares.pdb
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe.config
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\bin\Debug\ParesImpares.exe
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\bin\Debug\ParesImpares.pdb
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.AssemblyReference.cache
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Form1.resources
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.Properties.Resources.resources
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.GenerateResource.cache
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.csproj.CoreCompileInputs.cache
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.exe
+D:\Backup 2021\2\C#\2020\ParesImpares\ParesImpares\obj\Debug\ParesImpares.pdb
